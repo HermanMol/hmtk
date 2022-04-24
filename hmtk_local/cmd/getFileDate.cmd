@@ -1,4 +1,4 @@
-rem Sub Command
+rem HMTK Sub Command
 rem Syntax = call getFileDate #1 #2 #3
 rem #1 = receiving parameter
 rem #2 = the file
