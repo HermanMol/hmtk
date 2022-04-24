@@ -1,7 +1,8 @@
 # hmtk
 Herman Mol Tool Kit
 
-A collection of handy stuff for my development activities using a Windows client. Starting with CMD.exe batch stuff, some Oracle SQL, SQLcl, SQLDeveloper, AWK, AutoIt3.
+A collection of handy stuff for my development activities using a Windows client. 
+Starting with CMD.exe batch stuff, some Oracle SQL, SQLcl, SQLDeveloper, AWK, AutoIt3.
 Later Powershell.
 
 And who knows where it ends ...

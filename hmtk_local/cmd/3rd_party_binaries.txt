@@ -1,0 +1,9 @@
+3rd Party public licensed binaries (HMTK-version=2022-04-24 13:27:44):
+- diff.exe
+- gawk.exe
+- grep.exe
+- head.exe
+- md5.exe
+- msys-1.0.dll
+- tail.exe
+- wc.exe
