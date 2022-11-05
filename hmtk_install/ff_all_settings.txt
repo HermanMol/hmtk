@@ -1,0 +1,15 @@
+Current ICTD-related settings
+
+- APPDATA      : C:\Users\herman.mol\AppData\Roaming
+- ICTD_LOCAL   : C:\aaa_hmol\80_programs\ICTD_local
+- ICTD_COMPANY : ICI
+- ICTD_TEMP    : C:\aaa_hmol\80_programs\ICTD_local\temp
+- ICTD_SCRATCH : C:\aaa_hmol\80_programs\ICTD_local\ICTD_SCRATCH
+- ICTD_WORK    : C:\aaa_hmol\22_work
+
+- SQLPATH      : C:\aaa_hmol\80_programs\ICTD_local\SQL;C:\aaa_hmol\80_programs\ICTD_local\ui\au3
+- TNS_ADMIN    : C:\Oracle\Network\Admin
+- USERNAME     : herman.mol
+- PATH         : C:\ProgramFiles(x86)\VMware\VMwarePlayer\bin\;C:\ProgramFiles(x86)\MicrosoftSDKs\Azure\CLI2\wbin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramFiles(x86)\NVIDIACorporation\PhysX\Common;C:\ProgramFiles\PuTTY\;C:\ProgramFiles\Git\cmd;C:\ProgramFiles\Perforce\;C:\aaa_hmol\80_programs\graalvm\graalvm-ee-java11-windows-amd64-22.0.0.2\graalvm-ee-java11-22.0.0.2\bin;C:\Users\herman.mol\AppData\Local\Microsoft\WindowsApps;C:\aaa_hmol\80_programs\ICTD_local\cmd;C:\Users\herman.mol\AppData\Local\Programs\MicrosoftVSCode\bin;%hmxtpath%\cmd;C:\Oracle\instantclient_21_3;;C:\aaa_hmol\80_programs\ICTD_local\ui\au3
+
+Press any key to continue . . .

@@ -1,6 +1,6 @@
 @echo off
 rem Verify proper working of getting hmtk configuration
-rem Command: TEST_get_ictd_parm user env
+rem Command: VERIFY_get_hmtk_parm.bat user env
 rem HMTK-version=2022-04-24 14:02:39
 setlocal
 call get_hmtk_parm.cmd tnsnames tns tns_%2

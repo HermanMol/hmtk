@@ -15,9 +15,9 @@ title %0 %env% %uid%
 set srv=
 set pwd=
 call get_hmtk_parm.cmd servers srv %env%
-if %ERRORLEVEL% GTR 0 echo *E: Failed - get_hm21_parm.cmd servers. &exit /b %ERRORLEVEL%
+if %ERRORLEVEL% GTR 0 echo *E: Failed - get_hmtk_parm.cmd servers. &exit /b %ERRORLEVEL%
 call get_hmtk_parm.cmd databases pwd %uid%
-if %ERRORLEVEL% GTR 0 echo *E: Failed - get_hm21_parm.cmd databases. &exit /b %ERRORLEVEL%
+if %ERRORLEVEL% GTR 0 echo *E: Failed - get_hmtk_parm.cmd databases. &exit /b %ERRORLEVEL%
 (	set pwd=
 	set srv=
 	"C:\aaa_hmo\80_programs\oracle\sqlcli\sqlcl\bin\sql.exe" %uid%/%pwd%@%srv%
